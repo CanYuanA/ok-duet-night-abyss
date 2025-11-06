@@ -18,7 +18,7 @@ This software is open source, free of charge and for learning and exchange purpo
 
 本软件开源、免费，仅供学习交流使用。开发者团队拥有本项目的最终解释权。使用本软件产生的所有问题与本项目与开发者团队无关。若您遇到商家使用本软件进行代练并收费，可能是设备与时间等费用，产生的问题及后果与本软件无关。
 
-请注意，根据M [二重螺旋的公平游戏宣言](https://dna.yingxiong.com/#/news/list?id=14453&type=2523):
+请注意，根据[二重螺旋的公平游戏宣言](https://dna.yingxiong.com/#/news/list?id=14453&type=2523):
 
     "严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。"
     "一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。"
