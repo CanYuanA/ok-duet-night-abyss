@@ -53,6 +53,10 @@ MANIFEST
 venv/
 .venv/
 python/
+.python-version
+pyproject.toml
+uv.lock
+CLAUDE.md
 
 # PyInstaller
 # Usually these files are written by a python script from a template
