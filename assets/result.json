@@ -99,11 +99,6 @@
             "id": 17,
             "name": "track_point",
             "supercategory": ""
-        },
-        {
-            "id": 18,
-            "name": "fish_ease",
-            "supercategory": ""
         }
     ],
     "images": [
@@ -196,15 +191,6 @@
             "width": 3840,
             "date_captured": null,
             "id": 9
-        },
-        {
-            "license": 0,
-            "url": null,
-            "file_name": "images/10.png",
-            "height": 2160,
-            "width": 3840,
-            "date_captured": null,
-            "id": 10
         }
     ],
     "annotations": [
@@ -462,21 +448,6 @@
             "iscrowd": 0,
             "ignore": 0,
             "segmentation": []
-        },
-        {
-            "id": 17,
-            "image_id": 10,
-            "category_id": 18,
-            "segmentation": [],
-            "bbox": [
-                3168.2559999999917,
-                1583.1039999999994,
-                208.8960000000002,
-                188.41600000000108
-            ],
-            "ignore": 0,
-            "iscrowd": 0,
-            "area": 39359.34873600026
         }
     ]
 }
