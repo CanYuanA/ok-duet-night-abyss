@@ -15,7 +15,7 @@ key_config_option = ConfigOption('Game Hotkey Config', { #全局配置示例
 afk_config_option = ConfigOption('挂机设置', { #全局配置示例
     '提示音': 2,
     '弹出通知': True,
-    '防止鼠标干扰': False,
+    '防止鼠标干扰': True,
 }, description='挂机相关设置', config_description={
     '提示音': '单次提示响几次',
     '弹出通知': '是否弹出windows通知',

@@ -294,6 +294,8 @@ class CommissionsTask(BaseDNATask):
     def handle_mission_interface(self, stop_func=lambda: False):
         if self.in_team():
             return False
+        
+        self.check_for_monthly_card()
 
         if self.find_letter_reward_btn():
             self.choose_letter_reward()
