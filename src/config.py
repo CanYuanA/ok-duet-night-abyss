@@ -25,7 +25,7 @@ afk_config_option = ConfigOption('挂机设置', { #全局配置示例
 monthly_card_config_option = ConfigOption('Monthly Card Config', {
     'Check Monthly Card': False,
     'Monthly Card Time': 5
-}, description='(未实装 Not implemented) Turn on to avoid interruption by monthly card when executing tasks', config_description={
+}, description='Turn on to avoid interruption by monthly card when executing tasks', config_description={
     'Check Monthly Card': 'Check for monthly card to avoid interruption of tasks',
     'Monthly Card Time': 'Your computer\'s local time when the monthly card will popup, hour in (1-24)'
 })

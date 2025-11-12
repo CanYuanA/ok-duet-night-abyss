@@ -329,3 +329,63 @@ msgstr "Default"
 
 msgid "鼠标键或键盘按键"
 msgstr "Mouse button or keyboard key"
+
+msgid "Check Monthly Card"
+msgstr ""
+
+msgid "Check for monthly card to avoid interruption of tasks"
+msgstr ""
+
+msgid "Monthly Card Config"
+msgstr ""
+
+msgid "Monthly Card Time"
+msgstr ""
+
+msgid "OK-角色经验本50-巧手(主控猪妹,ai水母280范围,超时时间可设置10秒内保证跑错重开)"
+msgstr ""
+
+msgid "OK-角色经验本60-兼容无巧手(主控成年女磐石,ai水母280范围)"
+msgstr ""
+
+msgid "Turn on to avoid interruption by monthly card when executing tasks"
+msgstr ""
+
+msgid "Your computer's local time when the monthly card will popup, hour in (1-24)"
+msgstr ""
+
+msgid "ok-50MOD"
+msgstr ""
+
+msgid "ok-55,70MOD(主控水母280范围)"
+msgstr ""
+
+msgid "ok-60MOD"
+msgstr ""
+
+msgid "ok-80MOD(主控水母高范围)"
+msgstr ""
+
+msgid "ok-武器突破材料70-巧手(水母磐石280范围)"
+msgstr ""
+
+msgid "ok-武器突破材料70-巧手稳定版(水母磐石280范围)"
+msgstr ""
+
+msgid "ok-武器经验本70(水母磐石280范围)"
+msgstr ""
+
+msgid "ok-武器经验本80(水母磐石280范围)"
+msgstr ""
+
+msgid "ok-火巧10-巧手(磐石)"
+msgstr ""
+
+msgid "ok-火巧30,60-巧手(磐石30-14轮,60-8轮)"
+msgstr ""
+
+msgid "ok-火巧角色突破材料70-巧手(磐石,火10通用)"
+msgstr ""
+
+msgid "ok-皎皎币60"
+msgstr ""
